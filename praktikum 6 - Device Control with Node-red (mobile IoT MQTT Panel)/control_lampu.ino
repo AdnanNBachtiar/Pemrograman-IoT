@@ -1,8 +1,5 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
-#include <Adafruit_Sensor.h>
-#include <DHT.h>
-#include <ESP32Servo.h>
 
 #define relay1 4
 #define relay2 5
